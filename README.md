@@ -1,6 +1,6 @@
 # programming_in_c
 
-Compiling steps:
+Compilation command:
   gcc addition.c -o addition.o
 
 Run the code:
